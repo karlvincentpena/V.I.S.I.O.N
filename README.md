@@ -52,16 +52,16 @@ VISION aims to improve the mobility, independence, and confidence of visually im
 
 ## 🏆 Awards
 
-🎖️ Excellence in Applied Research Award
-🎖️ 1st Place Best Project Explanation
-🎖️ 2nd Overall Most Creative Video
-🎖️ 2nd Best Capstone Video
-🎖️ 1st Place Most Inspiring Video
-🎖️ 2nd Place Dream Team Award
-🎖️ 2nd Place Most Interactive Booth Award
-🎖️ 2nd Best Software Product
-🎖️ 1st Place Most Aesthetic Booth
-🎖️ 2nd Place Peoples Choice Award 
+- 🎖️ Excellence in Applied Research Award
+- 🎖️ 1st Place Best Project Explanation
+- 🎖️ 2nd Overall Most Creative Video
+- 🎖️ 2nd Best Capstone Video
+- 🎖️ 1st Place Most Inspiring Video
+- 🎖️ 2nd Place Dream Team Award
+- 🎖️ 2nd Place Most Interactive Booth Award
+- 🎖️ 2nd Best Software Product
+- 🎖️ 1st Place Most Aesthetic Booth
+- 🎖️ 2nd Place Peoples Choice Award 
 ---
 
 ## 📌 Project Status
