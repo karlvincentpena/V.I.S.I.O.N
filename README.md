@@ -82,7 +82,7 @@ As one of the developers of V.I.S.I.O.N., I contributed to several aspects of th
 
 ## 📸 Wearable Prototype
 
-(images/VISION 3D MODEL.png)
+images/VISION-3D-MODEL.png
 
 ---
 
