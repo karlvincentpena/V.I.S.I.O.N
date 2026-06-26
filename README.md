@@ -80,17 +80,9 @@ As one of the developers of V.I.S.I.O.N., I contributed to several aspects of th
 
 ## 📸 Project Gallery
 
-> *Screenshots of the wearable prototype, Android application, object detection interface, and system architecture will be added soon.*
+## 📸 Wearable Prototype
 
----
-
-## 🚀 Future Improvements
-
-* Improve obstacle detection performance in low-light environments
-* Expand object classification capabilities
-* Enhance battery efficiency for longer operation
-* Add offline navigation support
-* Integrate voice command functionality
+![VISION Vest](images/VISION 3D MODEL.png)
 
 ---
 
