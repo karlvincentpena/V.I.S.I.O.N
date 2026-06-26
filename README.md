@@ -1,38 +1,49 @@
 # V.I.S.I.O.N.
-### Visually Impaired Support through Intelligent Obstacle Navigation
 
-## 📖 Overview
+### *Visually Impaired Support through Intelligent Obstacle Navigation*
 
-**V.I.S.I.O.N. (Visually Impaired Support through Intelligent Obstacle Navigation)** is a smart wearable vest developed to help visually impaired individuals navigate safely and independently.
-
-The system utilizes **front and rear cameras** powered by the **YOLOv8 object detection model** to detect and track obstacles in real time. Detected obstacles are communicated to the user through clear **audio feedback** via a 3.5mm audio jack, enabling safer navigation and greater environmental awareness.
-
-For enhanced safety, the vest includes an **emergency button** that instantly sends an alert to the companion **VISION Android application**, allowing guardians or caregivers to monitor the user's location and respond quickly during emergencies.
-
-VISION aims to improve the mobility, independence, and confidence of visually impaired individuals while keeping them connected to the people who care for them.
+> **An AI-powered wearable assistive vest that enables visually impaired individuals to navigate safely and independently using real-time computer vision, audio guidance, and emergency monitoring.**
 
 ---
 
-## ✨ Features
+## 🌐 Live Project
 
-- 🎥 Real-time obstacle detection using **YOLOv8**
-- 👁️ Front and rear camera support
-- 🔊 Real-time voice guidance through audio output
-- 📍 GPS location monitoring
-- 📱 Android companion application for guardians
-- 🚨 Emergency alert button with instant notification
-- ☁️ Cloud-based monitoring and communication
+🔗 **Website:** https://vision-project.web.app/
+
+---
+
+## 📖 Overview
+
+**V.I.S.I.O.N. (Visually Impaired Support through Intelligent Obstacle Navigation)** is a smart wearable vest designed to assist visually impaired individuals in navigating their surroundings with greater confidence and independence.
+
+The system utilizes **front and rear cameras** powered by the **YOLOv8 object detection model** to detect and track obstacles in real time. Detected objects are communicated to the user through clear **audio feedback** via a 3.5mm audio jack, allowing safer and more informed navigation.
+
+To enhance user safety, the vest includes an **SOS emergency button** that instantly sends an alert to the companion **VISION Android application**, enabling guardians or caregivers to monitor the user's location and respond quickly during emergencies.
+
+Developed as our undergraduate capstone project, V.I.S.I.O.N. combines Artificial Intelligence, Computer Vision, IoT, GPS, and Mobile Development to provide a practical assistive solution for visually impaired individuals.
+
+---
+
+## ✨ Key Features
+
+* 🎥 Real-time obstacle detection using **YOLOv8**
+* 👁️ Dual-camera (front & rear) obstacle monitoring
+* 🔊 Audio guidance through a 3.5mm audio output
+* 📍 GPS location tracking
+* 📱 Android companion application for guardians
+* 🚨 Emergency (SOS) button with instant alerts
+* ☁️ Cloud-based monitoring and communication
+* ♿ Designed specifically for visually impaired users
 
 ---
 
 ## 🛠 Technologies Used
-
 - Python
 - YOLOv8
 - OpenCV
 - Raspberry Pi
 - Android Studio (Java)
-- MySQL
+- Firebase
 - GPS Module
 - Text-to-Speech (TTS)
 
@@ -40,30 +51,53 @@ VISION aims to improve the mobility, independence, and confidence of visually im
 
 ## 👨‍💻 My Contributions
 
-- System analysis and planning
-- Software development
-- Database design
-- Technical documentation
-- UI/UX design
-- Testing and debugging
-- Project presentation
+As one of the developers of V.I.S.I.O.N., I contributed to several aspects of the project, including:
+
+* System planning and requirements analysis
+* Software development
+* Database design and management
+* Technical documentation
+* UI/UX design
+* System testing and debugging
+* Project presentation and demonstration
 
 ---
 
-## 🏆 Awards
+## 🏆 Awards & Recognition
 
-- 🎖️ Excellence in Applied Research Award
-- 🎖️ 1st Place Best Project Explanation
-- 🎖️ 2nd Overall Most Creative Video
-- 🎖️ 2nd Best Capstone Video
-- 🎖️ 1st Place Most Inspiring Video
-- 🎖️ 2nd Place Dream Team Award
-- 🎖️ 2nd Place Most Interactive Booth Award
-- 🎖️ 2nd Best Software Product
-- 🎖️ 1st Place Most Aesthetic Booth
-- 🎖️ 2nd Place Peoples Choice Award 
+* 🏆 Excellence in Applied Research Award
+* 🥇 1st Place – Best Project Explanation
+* 🥇 1st Place – Most Inspiring Video
+* 🥇 1st Place – Most Aesthetic Booth
+* 🥈 2nd Place – Best Software Product
+* 🥈 2nd Place – People's Choice Award
+* 🥈 2nd Place – Most Interactive Booth
+* 🥈 2nd Place – Best Capstone Video
+* 🥈 2nd Place – Most Creative Video
+* 🥈 2nd Place – Dream Team Award
+
+---
+
+## 📸 Project Gallery
+
+> *Screenshots of the wearable prototype, Android application, object detection interface, and system architecture will be added soon.*
+
+---
+
+## 🚀 Future Improvements
+
+* Improve obstacle detection performance in low-light environments
+* Expand object classification capabilities
+* Enhance battery efficiency for longer operation
+* Add offline navigation support
+* Integrate voice command functionality
+
 ---
 
 ## 📌 Project Status
 
-✅ Completed Undergraduate Capstone Project (2026)
+**Status:** ✅ Completed
+
+**Project Type:** Undergraduate Capstone Project
+
+**Year:** 2026
