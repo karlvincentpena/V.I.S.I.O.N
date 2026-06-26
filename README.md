@@ -78,14 +78,6 @@ As one of the developers of V.I.S.I.O.N., I contributed to several aspects of th
 
 ---
 
-## 📸 Project Gallery
-
-## 📸 Wearable Prototype
-
-images/VISION-3D-MODEL.png
-
----
-
 ## 📌 Project Status
 
 **Status:** ✅ Completed
