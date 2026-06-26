@@ -10,9 +10,13 @@
 
 🔗 **Website:** https://vision-project.web.app/
 
-🔗 **Youtube Video:** https://youtu.be/x9AvBWBY0zs
 ---
 
+## 🎥 Promotional Video
+
+🔗 **Youtube Link:** https://youtu.be/x9AvBWBY0zs
+
+---
 ## 📖 Overview
 
 **V.I.S.I.O.N. (Visually Impaired Support through Intelligent Obstacle Navigation)** is a smart wearable vest designed to assist visually impaired individuals in navigating their surroundings with greater confidence and independence.
