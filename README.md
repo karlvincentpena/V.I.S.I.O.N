@@ -62,7 +62,6 @@ As one of the developers of V.I.S.I.O.N., I contributed to several aspects of th
 * Software development
 * Database design and management
 * Technical documentation
-* UI/UX design
 * System testing and debugging
 * Project presentation and demonstration
 
